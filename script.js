@@ -1,12 +1,12 @@
-const textArea = document.querySelector(".text-area");
+const textArea = document.querySelector(".caja-texto");
 const mensaje = document.querySelector(".mensaje");
 const copia = document.querySelector(".copiar");
 copia.style.display = "none"
 
 
 function validarTexto(){
-    let textoEscrito = document.querySelector(".text-area").value;
-    let validador = textoEscrito.match(/^[a-z]*$/);
+    let textoEscrito = document.querySelector(".caja-texto").value;
+    let validador = textoEscrito.match(/^[a-z\s]*$/);
 
     if(!validador || validador === 0) {
         alert("Solo son permitidas letras minúsculas y sin acentos")
