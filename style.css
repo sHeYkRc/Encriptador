@@ -110,8 +110,17 @@ main{
     font-size:18px;
 }
 
+.pie {
+    height: 50px;
+    width: 50px;
+}
+
 footer{
-    border: solid red;
+    
+    width: auto;
+    margin: 20px;
+    display: flex;
+
 }
 
 @media screen and (max-width: 480px) {
