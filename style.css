@@ -111,8 +111,12 @@ main{
 }
 
 .pie {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
+    transition: transform 0.2s;
+}
+.pie:hover {
+    transform: scale(1.1);
 }
 
 footer{
