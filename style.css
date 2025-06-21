@@ -117,9 +117,14 @@ main{
 
 footer{
     
-    width: auto;
-    margin: 20px;
+    width: 100%;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    position: relative;
 
 }
 
