@@ -48,18 +48,21 @@ main{
 }
 
 .mensaje{
-    height: 630px;
+    height: 400px;
     background: white;
     background-image: url("Imagenes/Muñeco.svg");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 80%;
     border: none;
     border-radius: 24px;
     color: #0A3871;
-    margin-left: 98px;
+    margin-left: 20px;
     margin-top: 20px;
-    padding-left: 20px;
-    position: relative;
+    padding: 20px;
+    position: relative; /* ✅ Solución real */
+    width: 100%;
+    resize: none;
 }
 .mensaje:focus {
     outline: none;
@@ -138,6 +141,13 @@ footer{
         flex-direction: column;
         margin-left: 0;
     }
+
+    .mensaje {
+    height: 200px;
+    margin-top: 10px;
+    background-size: contain;
+    padding: 10px;
+  }
 
     .caja-texto{
         height: 200px;
