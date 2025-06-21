@@ -132,7 +132,7 @@ footer{
 
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
     /* Estilos para pantallas con ancho máximo de 768px */
 
 
@@ -167,4 +167,12 @@ footer{
     .copiar {
         margin-top: 20px;
     }
+
+    footer {
+        flex-direction: row;
+        justify-content: center;
+        padding-bottom: 40px;
+    }
+
+    
 }
