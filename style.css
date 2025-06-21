@@ -112,8 +112,8 @@ main{
 }
 
 .pie {
-    height: 32px;
-    width: 32px;
+    height: 36px;
+    width: 36px;
     transition: transform 0.2s;
 
 }
@@ -126,11 +126,12 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 12px;
+    gap: 16px;
     margin-top: 40px;
-    padding-bottom: 20px;
-    position: relative;
+    padding: 20px 0;
     flex-wrap: wrap;
+    position: relative;
+    background: transparent;
 }
 
 @media screen and (max-width: 768px) {
@@ -177,14 +178,14 @@ footer{
     }
 
     footer {
-        margin-top: 20px;
-        padding-bottom: 30px;
+        margin-top: 30px;
+        padding-bottom: 40px;
     }
 
 
     .pie {
-        height: 28px;
-        width: 28px;
+        height: 30px;
+        width: 30px;
     }
 
     
