@@ -28,7 +28,7 @@ Permite ingresar un texto en minúscular y sin acentos, el cual será trasformad
 
 ---
 
-##Responsive
+## Responsive
 
 Adaptado para pantallas móviles, tablets, modo pantalla dividida y escritorio.
 
@@ -40,7 +40,7 @@ Adaptado para pantallas móviles, tablets, modo pantalla dividida y escritorio.
 
 ---
 
-##Tecnologías
+## Tecnologías
 
 - HTML5
 - CSS3
