@@ -27,6 +27,10 @@ Permite ingresar un texto en minúscular y sin acentos, el cual será trasformad
 | `u`            | `ufat`    |
 
 
+---
+
+## Demo en línea 
+[Haz clic aquí para ver el proyecto en GitHub Pages](https://sheykrc.github.io/Encriptador/)
 
 
 
