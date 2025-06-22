@@ -26,6 +26,11 @@ Permite ingresar un texto en minúscular y sin acentos, el cual será trasformad
 | `o`            | `ober`    |
 | `u`            | `ufat`    |
 
+---
+
+##Responsive
+
+Adaptado para pantallas móviles, tablets, modo pantalla dividida y escritorio.
 
 ---
 
@@ -33,6 +38,13 @@ Permite ingresar un texto en minúscular y sin acentos, el cual será trasformad
 [Haz clic aquí para ver el proyecto en GitHub Pages](https://sheykrc.github.io/Encriptador/)
 
 
+---
+
+##Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript ES6
 
 
   
