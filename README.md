@@ -1,4 +1,4 @@
-Este es un ecriptador/desencriptador de texto creado con HTML, CSS, JavaScript puro como parte del programa Orecle ONE - Alura Latam
+Este es un encriptador/desencriptador de texto creado con HTML, CSS, JavaScript puro como parte del programa Orecle ONE - Alura Latam
 
 Permite ingresar un texto en minúscular y sin acentos, el cual será trasformado mediante un sistema simple de sustitución de letras, tambien incluye funcionalidades para copiar el texto encriptado/desencriptado.
 
